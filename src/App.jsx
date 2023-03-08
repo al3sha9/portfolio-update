@@ -18,6 +18,10 @@ function App() {
           outerAlpha={0.4}
           innerScale={0.7}
           outerScale={5}
+          hasBlendMode={true}
+          outerStyle={{
+            mixBlendMode: 'exclusion'
+          }}
         />
       </div>
       <h1>To new beginnings</h1>
