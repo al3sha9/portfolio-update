@@ -25,6 +25,7 @@ function App() {
         />
       </div>
       <h1>To new beginnings</h1>
+      <h2>ALI SHAN</h2>
     </div>
   )
 }
