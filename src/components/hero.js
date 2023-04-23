@@ -90,7 +90,7 @@ export default function Hero() {
                                         target="_blank"
                                         className="text-yellow-300 hover:underline focus:border-none"
                                     >
-                                       <i class="fa-brands fa-linkedin-in"></i> linkedin
+                                       <i class="fa-brands fa-linkedin-in"></i> ledin
                                     </a>
                                     &apos;
                                 </span>
