@@ -29,21 +29,21 @@ export default function Hero() {
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;name:{" "}
-                                <span className="text-yellow-300">'Ali Shan'</span>,
+                                <span className="text-yellow-300">&apos;Ali Shan&apos;</span>,
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;position:{" "}
                                 
-                                <span className="text-yellow-300">'Blockchain Developer'</span>,
+                                <span className="text-yellow-300">&apos;Blockchain Developer&apos;</span>,
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;compant:{" "}
-                                <span className="text-yellow-300">'Tech Alphalogix'</span>,
+                                <span className="text-yellow-300">&apos;Tech Alphalogix&apos;</span>,
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;contact:{" "}
                                 <span className="text-yellow-300">
-                                    '
+                                &apos;
                                     <a 
                                         href="https://www.linkedin.com/in/alshnkhn/"
                                         target="_blank"
@@ -51,7 +51,7 @@ export default function Hero() {
                                     >
                                        <i class="fa-brands fa-linkedin-in"></i> linkedin
                                     </a>
-                                    '
+                                    &apos;
                                 </span>
                                 ,
                             </p>
@@ -70,21 +70,21 @@ export default function Hero() {
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;name:{" "}
-                                <span className="text-yellow-300">'Ali Shan'</span>,
+                                <span className="text-yellow-300">&apos;Ali Shan&apos;</span>,
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;position:{" "}
                                 
-                                <span className="text-yellow-300">'Blockchain Developer'</span>,
+                                <span className="text-yellow-300">&apos;Blockchain Developer&apos;</span>,
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;compant:{" "}
-                                <span className="text-yellow-300">'Tech Alphalogix'</span>,
+                                <span className="text-yellow-300">&apos;Tech Alphalogix&apos;</span>,
                             </p>
                             <p>
                                 &nbsp;&nbsp;&nbsp;&nbsp;contact:{" "}
                                 <span className="text-yellow-300">
-                                    '
+                                &apos;
                                     <a 
                                         href="https://www.linkedin.com/in/alshnkhn/"
                                         target="_blank"
@@ -92,7 +92,7 @@ export default function Hero() {
                                     >
                                        <i class="fa-brands fa-linkedin-in"></i> linkedin
                                     </a>
-                                    '
+                                    &apos;
                                 </span>
                                 ,
                             </p>
