@@ -27,7 +27,7 @@ export default function Hero() {
                             className="rounded-xl mb-8"
                         />
                         <h1 className="text-6xl mb-8 font-bold linee sm:text-6xl"><i class="fa-solid fa-greater-than left-left"></i>
-                            <span className="bg-gradient-to-r from-green-500 to-blue-500 text-transparent bg-clip-text "> Ali Shan.</span><span className="bg-gradient-to-r from-green-500 to-blue-500 text-transparent bg-clip-text blink">_</span><br /> Blockchain Dev and Opensource Enthusiast
+                            <span className="bg-gradient-to-r from-green-500 to-blue-500 text-transparent bg-clip-text "> Ali Shan</span><span className="bg-gradient-to-r from-green-500 to-blue-500 text-transparent bg-clip-text blink">_</span><br /> Blockchain Dev and Opensource Enthusiast
                         </h1>
                         {/* <p className="mt-6 mb-8 text-lg sm:mb-12">Dictum aliquam porta in condimentum ac integer
                             <br className="hidden md:inline lg:hidden" />turpis pulvinar, est scelerisque ligula sem
